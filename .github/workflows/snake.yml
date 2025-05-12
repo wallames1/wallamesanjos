@@ -1,0 +1,19 @@
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v2
+        with:
+          github_user_name: seuusuario
+          outputs: snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: .github/snake
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
