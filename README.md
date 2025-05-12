@@ -43,14 +43,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallames1&layout=compact&theme=dark"/>
 </div>
 
----
-
-### 🐍 Efeito da Cobrinha
-<div align="center">
-  <img src="https://github.com/wallames1/wallames1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
 
 <div align="center">
   💬 Sinta-se à vontade para conectar-se comigo:  
