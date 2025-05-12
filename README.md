@@ -1,9 +1,14 @@
 
 <h1 align="center">Olá! 👋 Eu sou o Wallames Anjos</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Novas+Habilidades" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;" alt="Typing SVG" />
 </p>
+
+### 📈 Estatísticas do GitHub
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallames1&show_icons=true&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallames1&layout=compact&theme=dark"/>
+</div>
 
 ---
 
@@ -36,13 +41,6 @@
 🖼️ Museu Multitemático-exibição e gestão [https://github.com/wallames1/PIM-museu-multe-tem-tico] 
 
 ---
-
-### 📈 Estatísticas do GitHub
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wallames1&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallames1&layout=compact&theme=dark"/>
-</div>
-
 
 <div align="center">
   💬 Sinta-se à vontade para conectar-se comigo:  
