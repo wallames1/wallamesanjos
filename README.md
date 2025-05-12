@@ -47,12 +47,12 @@
 
 ### 🐍 Efeito da Cobrinha
 <div align="center">
-  <img src="https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/wallames1/wallames1/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
   💬 Sinta-se à vontade para conectar-se comigo:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin)
+  [![LinkedIn](https://www.linkedin.com/in/wallames)
 </div>
